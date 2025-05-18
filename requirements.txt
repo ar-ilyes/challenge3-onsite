@@ -6,4 +6,5 @@ google-generativeai>=0.3.0
 openai>=1.0.0
 pinecone
 langchain-openai
-sqlite3
+sqlite3=3.27.2
+pydantic-settings
